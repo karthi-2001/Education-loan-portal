@@ -1,0 +1,16 @@
+.navbar {
+  display: flex;
+  grid-template-columns: 150px 500px;
+  background-color: bisque;
+  max-width: 30px;
+  max-height: 30px;
+}
+.rightSide {
+  display: grid;
+  align-content: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.books {
+  width: 10px;
+  height: 10px;
+}
